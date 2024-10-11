@@ -20,3 +20,20 @@ in forth task i make
 LUHN Algorithm 
 Remove Punctuations from UserInput String (without using remove function)
 Sort text (word) in Alphabetical Order (without using sort function)
+
+in fith task i make 
+ DFS with Stack & Node
+ Research about "Inorder, Preorder, Postorder" and implement in DFS
+
+in 6th task i make 
+BFS without Queue & without Node
+BFS with Queue & Node
+
+
+in 7th task i make 
+Code of A* Algorithm (without importing any library)
+
+
+in 8th task i make 
+Code of "Min Max Algorithm"
+
